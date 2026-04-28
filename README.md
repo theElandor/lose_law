@@ -1,3 +1,6 @@
 # lose_law
-Bash script that reminds you of some important rules. 
+Bash script that reminds you of some important rules.
+
 Special thanks to https://lawsofsoftwareengineering.com/
+
+![Logo](lose_law.png)
